@@ -1,5 +1,3 @@
-# serverless_security_compliance_dashboard-public
-
 # 🛡️ Serverless Security Compliance Dashboard
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -10,7 +8,7 @@
 
 A robust, cloud-native platform built on AWS that provides real-time security compliance monitoring for your infrastructure. Our dashboard helps security teams visualize compliance status across multiple environments, identify potential threats, and remediate issues quickly.
 
-> 🔒 **Note**: This is the public README for the Serverless Security Compliance Dashboard project. Full source code and architecture details are available in our private repository. [Request access](#contact) for collaboration.
+> 🔒 **Note**: This is the public README for the Serverless Security Compliance Dashboard project. Full source code and architecture details are available in our [private repository](https://github.com/bismi-tech/serverless_security_compliance_dashboard-private). [Request access](#contact) for collaboration.
 
 ## 🚀 Features
 
@@ -74,7 +72,7 @@ Our cloud-native architecture follows AWS Well-Architected Framework guidelines 
 
 ## 🔧 Getting Started
 
-> 🔒 **Note**: Detailed setup instructions, deployment guides, and configuration files are available in our private repository. This section provides a high-level overview.
+> 🔒 **Note**: Detailed setup instructions, deployment guides, and configuration files are available in our [private repository](https://github.com/bismi-tech/serverless_security_compliance_dashboard-private). This section provides a high-level overview.
 
 ### Prerequisites
 
@@ -88,8 +86,8 @@ Our cloud-native architecture follows AWS Well-Architected Framework guidelines 
 
 ```bash
 # Clone the repository (private access required)
-git clone https://github.com/your-org/serverless-security-compliance-dashboard.git
-cd serverless-security-compliance-dashboard
+git clone https://github.com/bismi-tech/serverless_security_compliance_dashboard-private.git
+cd serverless_security_compliance_dashboard-private
 
 # Install dependencies
 npm install
@@ -110,7 +108,7 @@ npm run dev
 
 ## 🤝 Contributing
 
-We welcome contributions from the security community! If you're interested in contributing, please [request access](#contact) to our private repository.
+We welcome contributions from the security community! If you're interested in contributing, please [request access](#contact) to our [private repository](https://github.com/bismi-tech/serverless_security_compliance_dashboard-private).
 
 ### Development Workflow
 
@@ -132,11 +130,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## <a name="contact"></a>🙋‍♂️ Contact & Support
 
-Have questions or need help? Reach out to our team:
+Have questions or need access to the private repository? Reach out to our team:
 
 - **Email**: security-dashboard@example.com
 - **Slack**: #security-dashboard-support
-- **GitHub Issues**: [Report a bug](https://github.com/your-org/serverless-security-compliance-dashboard/issues)
+- **GitHub Issues**: [Report a bug](https://github.com/bismi-tech/serverless_security_compliance_dashboard-private/issues)
 
 ---
 
